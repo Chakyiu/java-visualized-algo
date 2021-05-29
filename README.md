@@ -17,7 +17,7 @@ To provide a visualized image of sorting algorithm. The application are develope
 ### Pending
 
 - Selection Sort (Done)
-- Bubble Sort
+- Bubble Sort (Done)
 - Insertion Sort
 - Merge Sort
 - More and more...
